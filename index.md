@@ -10,7 +10,7 @@ I will display some of my prominent projects that I have partake in the creation
 
 ## My 3rd year project in Digipen - Rebirth
 <img src="/Image/CS300_Project/ProjectMainPage.png" width="640"/>
-
+![Rebirth](/Image/CS300_Project/ProjectMainPage.png)
 A game project I have made using C++ for a year 3 project module in Digipen in a 10 man team.
 
 <img src="/Image/CS300_Project/gp_3.png" width="640" height="320"/>
