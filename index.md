@@ -12,8 +12,8 @@ I will show you some of my prominent projects that I have partake in the creatio
 ![Rebirth main picture](/../Image/CS300_Project/ProjectMainPage.png)
 
 A game project I have made for a year 3 project module in Digipen in a 10 man team.
-![Rebirth game play image](/../Image/CS300_Project/gp_3.png)
 
+![Rebirth game play image](/Image/CS300_Project/gp_3.png)
 Rebirth is a third-person adventure thriller game where the player assumes the role of a lost spirit in his journey towards acceptance. 
 Using possession abilities, the player needs to navigate and avoid other evil spirits in order to regain his memories and successfully reincarnate.
 The game focus more on storytelling and the immersive environment to help in making the player feel like the character they are players as.
