@@ -2,8 +2,9 @@
 
 This is little website that I have created introduce myself and the work I have done
 
+<div style="width: 60%; height: 60%">
 ![Face photo](/Image/Personal/FacePhoto.png)
-
+</div>
 Hi, I am Ngian Teck Wei. I am a Programmer/Developer studying in Digipen.
 I have a strong interest in developing software and games, and I am working to improve and know more about them.
 I will display some of my prominent projects that I have partake in the creations.
