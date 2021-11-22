@@ -1,9 +1,9 @@
 ## Welcome to my portfolio page
 
 This is little website that I have created introduce myself and the work I have done
-{:refdef: style="width: 10px; height: 10px"}
-![Face photo](/Image/Personal/FacePhoto.png)
-{: refdef}
+
+![Face photo](/Image/Personal/FacePhoto.png|width=100px])
+
 Hi, I am Ngian Teck Wei. I am a Programmer/Developer studying in Digipen.
 I have a strong interest in developing software and games, and I am working to improve and know more about them.
 I will display some of my prominent projects that I have partake in the creations.
