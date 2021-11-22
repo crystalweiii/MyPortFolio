@@ -24,13 +24,13 @@ The game focus more on storytelling and the immersive environment to help in mak
 My main role in the project is the engine architecture and basic pathing and I assisted in the level editor formation.
 
 ## My final year project in NanYang Polytechnic - Dont Touch My Loot
-![Rebirth main picture](/Image/FYP/Poster.jpg =701x992)
+![DTML main picture](/Image/FYP/Poster.jpg){:height="50%" width="50%"}
 A game project I have made using Unity for my final year project in NanYang Polytechnic in a 8 man team.
 
-![Rebirth main picture](/Image/FYP/BattleScene.png)
+![DTML main picture](/Image/FYP/BattleScene.png)
 Dont Touch My Loot is a Playstation 4 game that mixes tower defense with dungeon building. 
 Set underground, the player has to protect his core from the evil heroes with monsters. 
 The player must strive to create a maze inside the dungeon so the Hero would be lost inside and buy time for the player to build up his army of monsters to crush the hero.
 
-![Rebirth main picture](/Image/FYP/CreationScene.png)
+![DTML main picture](/Image/FYP/CreationScene.png)
 My main role in the project is the Ui placement and functionality, and also the blocks creation and destruction.
