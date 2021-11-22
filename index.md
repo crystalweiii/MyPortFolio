@@ -3,18 +3,20 @@
 This is little website that I have created introduce myself and the work I have done
 
 ![Face photo](/Image/Personal/FacePhoto.png)
+
 Hi, I am Ngian Teck Wei. I am a Programmer/Developer studying in Digipen.
 I have a strong interest in developing software and games, and I am working to improve and know more about them.
 I will display some of my prominent projects that I have partake in the creations.
 
 ## My 3rd year project in Digipen - Rebirth
 <img src="/Image/CS300_Project/ProjectMainPage.png" width="640"/>
-![Rebirth](/Image/CS300_Project/ProjectMainPage.png)
+[[/Image/CS300_Project/ProjectMainPage.png|width=400px]]
 
 A game project I have made using C++ for a year 3 project module in Digipen in a 10 man team.
 
 <img src="/Image/CS300_Project/gp_3.png" width="640" height="320"/>
-![Rebirth gp](/Image/CS300_Project/ProjectMainPage.png)
+![Rebirth gp](/Image/CS300_Project/gp_3.png)
+
 Rebirth is a third-person adventure thriller game where the player assumes the role of a lost spirit in his journey towards acceptance. 
 Using possession abilities, the player needs to navigate and avoid other evil spirits in order to regain his memories and successfully reincarnate.
 The game focus more on storytelling and the immersive environment to help in making the player feel like the character they are players as.
