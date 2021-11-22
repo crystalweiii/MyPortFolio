@@ -4,7 +4,7 @@ This is little website that I have created introduce myself and the work I have 
 
 
 ## My 3rd year work in Digipen
-![Main](\Image\CS300_Project\ProjectMainPage.png)
+![Main](/Image/CS300_Project/ProjectMainPage.png)
 
 ### Markdown
 
