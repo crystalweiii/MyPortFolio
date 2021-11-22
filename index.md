@@ -22,7 +22,7 @@ The game focus more on storytelling and the immersive environment to help in mak
 My main role in the project is the engine architecture and basic pathing and I assisted in the level editor formation.
 
 ## My final year project in NanYang Polytechnic - Dont Touch My Loot
-<img src="/Image/FYP/Poster.jpg" width="701" height="992">
+<img src="/Image/FYP/Poster.jpg" width="180" height="320">
 A game project I have made using Unity for my final year project in NanYang Polytechnic in a 8 man team.
 
 <img src="/Image/FYP/BattleScene.png" width="320" height="180">
