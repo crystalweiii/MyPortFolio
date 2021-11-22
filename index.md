@@ -9,7 +9,7 @@ I have a strong interest in developing software and games, and I am working to i
 I will display some of my prominent projects that I have partake in the creations.
 
 ## My 3rd year project in Digipen - Rebirth
-<a href="/Image/CS300_Project/ProjectMainPage.png"><img src="/Image/CS300_Project/ProjectMainPage.png" width="640" height="320"></a>
+<img src="/Image/CS300_Project/ProjectMainPage.png" width="640">
 
 A game project I have made using C++ for a year 3 project module in Digipen in a 10 man team.
 
