@@ -2,38 +2,27 @@
 
 This is little website that I have created introduce myself and the work I have done
 
+![Face photo](/../Image/Personal/FacePhoto.png)
+Hi, I am Ngian Teck Wei. I am a Programmer/Developer studying in Digipen.
+I have a strong interest in developing software and games, and I am working to improve and know more about them.
+I will show you some of my prominent projects that I have partake in the creations.
 
-## My 3rd year work in Digipen - Rebirth
-![Main](/../Image/CS300_Project/ProjectMainPage.png)
+## My 3rd year project in Digipen - Rebirth
+![Rebirth main picture](/../Image/CS300_Project/ProjectMainPage.png)
+A game project I have made for a year 3 project module in Digipen in a 10 man team.
+![Rebirth game play image](/../Image/CS300_Project/gp_3.png)
+Rebirth is a third-person adventure thriller game where the player assumes the role of a lost spirit in his journey towards acceptance. 
+Using possession abilities, the player needs to navigate and avoid other evil spirits in order to regain his memories and successfully reincarnate.
+The game focus more on storytelling and the immersive environment to help in making the player feel like the character they are players as.
+![Rebirth main picture](/../Image/CS300_Project/EditorScreenShot1.png)
+![Rebirth main picture](/../Image/CS300_Project/EditorScreenShot4.png)
+My main role in the project is the engine architecture and basic pathing and I assisted in the level editor formation.
 
-### Markdown
+## My final year project in NanYang Polytechnic - Dont Touch My Loot
+![Rebirth main picture](/../Image/FYP/Poster.png)
+A game project I have made for my final year project in NanYang Polytechnic in a 8 man team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crystalweiii/MyPortFolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dont Touch My Loot is a Playstation 4 game that mixes tower defense with dungeon building. 
+Set underground, the player has to protect his core from the evil heroes with monsters. 
+The player must strive to create a maze inside the dungeon so the Hero would be lost inside and buy time for the player to build up his army of monsters to crush the hero.
