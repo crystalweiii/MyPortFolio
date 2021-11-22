@@ -19,13 +19,13 @@ Rebirth is a third-person adventure thriller game where the player assumes the r
 Using possession abilities, the player needs to navigate and avoid other evil spirits in order to regain his memories and successfully reincarnate.
 The game focus more on storytelling and the immersive environment to help in making the player feel like the character they are players as.
 
-<img src="/Image/CS300_Project/EditorSS1.png" width="640" height="320">
-<img src="/Image/CS300_Project/EditorSS4.png" width="640" height="320">
+<img src="/Image/CS300_Project/EditorSS1.jpg" width="640" height="320">
+<img src="/Image/CS300_Project/EditorSS4.jpg" width="640" height="320">
 ## 
 My main role in the project is the engine architecture and basic pathing and I assisted in the level editor formation.
 
 ## My final year project in NanYang Polytechnic - Dont Touch My Loot
-<img src="/Image/FYP/Poster.jpg" width="320" height="640">
+<img src="/Image/FYP/Poster.jpg" width="480" height="640">
 ## 
 A game project I have made using Unity for my final year project in NanYang Polytechnic in a 8 man team.
 
