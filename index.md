@@ -9,11 +9,11 @@ I have a strong interest in developing software and games, and I am working to i
 I will display some of my prominent projects that I have partake in the creations.
 
 ## My 3rd year project in Digipen - Rebirth
-<img src="/Image/CS300_Project/ProjectMainPage.png" width="640">
+<img src="/Image/CS300_Project/ProjectMainPage.png" width="640"/>
 
 A game project I have made using C++ for a year 3 project module in Digipen in a 10 man team.
 
-<img src="/Image/CS300_Project/gp_3.png" width="640" height="320">
+<img src="/Image/CS300_Project/gp_3.png" width="640" height="320"/>
 
 Rebirth is a third-person adventure thriller game where the player assumes the role of a lost spirit in his journey towards acceptance. 
 Using possession abilities, the player needs to navigate and avoid other evil spirits in order to regain his memories and successfully reincarnate.
