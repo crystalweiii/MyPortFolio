@@ -3,8 +3,8 @@
 This is little website that I have created introduce myself and the work I have done
 
 
-## My 3rd year work in Digipen
-![Main](/../Image/CS300_Project/ProjectMainPage.png)
+## My 3rd year work in Digipen - Rebirth
+![Main](/Image/CS300_Project/ProjectMainPage.png)
 
 ### Markdown
 
