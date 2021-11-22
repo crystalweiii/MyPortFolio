@@ -24,7 +24,7 @@ The game focus more on storytelling and the immersive environment to help in mak
 My main role in the project is the engine architecture and basic pathing and I assisted in the level editor formation.
 
 ## My final year project in NanYang Polytechnic - Dont Touch My Loot
-![Rebirth main picture](/Image/FYP/Poster.jpg = 701x992)
+![Rebirth main picture](/Image/FYP/Poster.jpg =701x992)
 A game project I have made using Unity for my final year project in NanYang Polytechnic in a 8 man team.
 
 ![Rebirth main picture](/Image/FYP/BattleScene.png)
